@@ -1,0 +1,6 @@
+{
+  "name": "RetailLens — Retail Product Matching & Data Quality Analysis",
+  "description": "Portfolio-ready Excel product matching, data quality audit, and German-English retail market research system tailored for Numerator Data Analyst role.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
